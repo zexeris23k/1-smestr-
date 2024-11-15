@@ -1,0 +1,7 @@
+C:\Users\Student28\Desktop\Новая папка\is23k_rastvorov3\is23k_rastvorov3\bin\Debug\is23k_rastvorov3.exe.config
+C:\Users\Student28\Desktop\Новая папка\is23k_rastvorov3\is23k_rastvorov3\bin\Debug\is23k_rastvorov3.exe
+C:\Users\Student28\Desktop\Новая папка\is23k_rastvorov3\is23k_rastvorov3\bin\Debug\is23k_rastvorov3.pdb
+C:\Users\Student28\Desktop\Новая папка\is23k_rastvorov3\is23k_rastvorov3\obj\Debug\is23k_rastvorov3.csproj.AssemblyReference.cache
+C:\Users\Student28\Desktop\Новая папка\is23k_rastvorov3\is23k_rastvorov3\obj\Debug\is23k_rastvorov3.csproj.CoreCompileInputs.cache
+C:\Users\Student28\Desktop\Новая папка\is23k_rastvorov3\is23k_rastvorov3\obj\Debug\is23k_rastvorov3.exe
+C:\Users\Student28\Desktop\Новая папка\is23k_rastvorov3\is23k_rastvorov3\obj\Debug\is23k_rastvorov3.pdb
