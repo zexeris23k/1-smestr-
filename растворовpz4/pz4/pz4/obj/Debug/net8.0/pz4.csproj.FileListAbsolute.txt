@@ -1,0 +1,28 @@
+C:\Users\Student28\source\repos\pz4\pz4\bin\Debug\net8.0\pz4.exe
+C:\Users\Student28\source\repos\pz4\pz4\bin\Debug\net8.0\pz4.deps.json
+C:\Users\Student28\source\repos\pz4\pz4\bin\Debug\net8.0\pz4.runtimeconfig.json
+C:\Users\Student28\source\repos\pz4\pz4\bin\Debug\net8.0\pz4.dll
+C:\Users\Student28\source\repos\pz4\pz4\bin\Debug\net8.0\pz4.pdb
+C:\Users\Student28\source\repos\pz4\pz4\obj\Debug\net8.0\pz4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student28\source\repos\pz4\pz4\obj\Debug\net8.0\pz4.AssemblyInfoInputs.cache
+C:\Users\Student28\source\repos\pz4\pz4\obj\Debug\net8.0\pz4.AssemblyInfo.cs
+C:\Users\Student28\source\repos\pz4\pz4\obj\Debug\net8.0\pz4.csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\pz4\pz4\obj\Debug\net8.0\pz4.dll
+C:\Users\Student28\source\repos\pz4\pz4\obj\Debug\net8.0\refint\pz4.dll
+C:\Users\Student28\source\repos\pz4\pz4\obj\Debug\net8.0\pz4.pdb
+C:\Users\Student28\source\repos\pz4\pz4\obj\Debug\net8.0\pz4.genruntimeconfig.cache
+C:\Users\Student28\source\repos\pz4\pz4\obj\Debug\net8.0\ref\pz4.dll
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\bin\Debug\net8.0\pz4.exe
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\bin\Debug\net8.0\pz4.deps.json
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\bin\Debug\net8.0\pz4.runtimeconfig.json
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\bin\Debug\net8.0\pz4.dll
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\bin\Debug\net8.0\pz4.pdb
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\obj\Debug\net8.0\pz4.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\obj\Debug\net8.0\pz4.AssemblyInfoInputs.cache
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\obj\Debug\net8.0\pz4.AssemblyInfo.cs
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\obj\Debug\net8.0\pz4.csproj.CoreCompileInputs.cache
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\obj\Debug\net8.0\pz4.dll
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\obj\Debug\net8.0\refint\pz4.dll
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\obj\Debug\net8.0\pz4.pdb
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\obj\Debug\net8.0\pz4.genruntimeconfig.cache
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ4\PZ4 Ерёмин и Кириллов\pz4\pz4\obj\Debug\net8.0\ref\pz4.dll

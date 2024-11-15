@@ -1,0 +1,14 @@
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\bin\Debug\net8.0\pz4(2).exe
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\bin\Debug\net8.0\pz4(2).deps.json
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\bin\Debug\net8.0\pz4(2).runtimeconfig.json
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\bin\Debug\net8.0\pz4(2).dll
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\bin\Debug\net8.0\pz4(2).pdb
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\obj\Debug\net8.0\pz4(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\obj\Debug\net8.0\pz4(2).AssemblyInfoInputs.cache
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\obj\Debug\net8.0\pz4(2).AssemblyInfo.cs
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\obj\Debug\net8.0\pz4(2).csproj.CoreCompileInputs.cache
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\obj\Debug\net8.0\pz4(2).dll
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\obj\Debug\net8.0\refint\pz4(2).dll
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\obj\Debug\net8.0\pz4(2).pdb
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\obj\Debug\net8.0\pz4(2).genruntimeconfig.cache
+C:\Users\Student28\source\repos\pz4(2)\pz4(2)\obj\Debug\net8.0\ref\pz4(2).dll
