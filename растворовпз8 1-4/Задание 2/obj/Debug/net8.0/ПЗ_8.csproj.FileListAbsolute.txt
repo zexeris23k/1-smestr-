@@ -1,0 +1,14 @@
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\bin\Debug\net8.0\ПЗ_8.exe
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\bin\Debug\net8.0\ПЗ_8.deps.json
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\bin\Debug\net8.0\ПЗ_8.runtimeconfig.json
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\bin\Debug\net8.0\ПЗ_8.dll
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\bin\Debug\net8.0\ПЗ_8.pdb
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\obj\Debug\net8.0\ПЗ_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\obj\Debug\net8.0\ПЗ_8.AssemblyInfoInputs.cache
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\obj\Debug\net8.0\ПЗ_8.AssemblyInfo.cs
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\obj\Debug\net8.0\ПЗ_8.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\obj\Debug\net8.0\ПЗ_8.dll
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\obj\Debug\net8.0\refint\ПЗ_8.dll
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\obj\Debug\net8.0\ПЗ_8.pdb
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\obj\Debug\net8.0\ПЗ_8.genruntimeconfig.cache
+C:\Users\Ангелина\source\repos\ПЗ_8\ПЗ_8\obj\Debug\net8.0\ref\ПЗ_8.dll
