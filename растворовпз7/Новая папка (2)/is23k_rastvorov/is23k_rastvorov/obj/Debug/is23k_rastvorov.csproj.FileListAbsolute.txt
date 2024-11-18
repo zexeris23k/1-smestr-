@@ -1,0 +1,14 @@
+C:\Users\Student28\Desktop\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\bin\Debug\is23k_rastvorov.exe.config
+C:\Users\Student28\Desktop\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\bin\Debug\is23k_rastvorov.exe
+C:\Users\Student28\Desktop\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\bin\Debug\is23k_rastvorov.pdb
+C:\Users\Student28\Desktop\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.csproj.AssemblyReference.cache
+C:\Users\Student28\Desktop\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.csproj.CoreCompileInputs.cache
+C:\Users\Student28\Desktop\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.exe
+C:\Users\Student28\Desktop\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.pdb
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ7\растворов\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\bin\Debug\is23k_rastvorov.exe.config
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ7\растворов\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\bin\Debug\is23k_rastvorov.exe
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ7\растворов\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\bin\Debug\is23k_rastvorov.pdb
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ7\растворов\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.csproj.AssemblyReference.cache
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ7\растворов\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.csproj.CoreCompileInputs.cache
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ7\растворов\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.exe
+\\192.168.10.6\учебные кабинеты\Кабинет 28\2024 - 2025\ОП 04 Основы алгоритмизации и программирования\1-й семестр\ИС-23К. Отчёты\ПЗ7\растворов\Новая папка (2)\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.pdb

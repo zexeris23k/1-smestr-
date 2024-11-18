@@ -1,0 +1,7 @@
+C:\Users\Student28\Desktop\аа\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.csproj.AssemblyReference.cache
+C:\Users\Student28\Desktop\аа\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.csproj.CoreCompileInputs.cache
+C:\Users\Student28\Desktop\аа\is23k_rastvorov\is23k_rastvorov\bin\Debug\is23k_rastvorov.exe.config
+C:\Users\Student28\Desktop\аа\is23k_rastvorov\is23k_rastvorov\bin\Debug\is23k_rastvorov.exe
+C:\Users\Student28\Desktop\аа\is23k_rastvorov\is23k_rastvorov\bin\Debug\is23k_rastvorov.pdb
+C:\Users\Student28\Desktop\аа\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.exe
+C:\Users\Student28\Desktop\аа\is23k_rastvorov\is23k_rastvorov\obj\Debug\is23k_rastvorov.pdb
